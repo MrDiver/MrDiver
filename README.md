@@ -29,8 +29,15 @@ If you found your way to this place then you must be a lost soul. You now have t
 - Artificial Intelligence
 - Functional Programming
 
+# Favorite Projects
+### [Arm Simulator](https://github.com/MrDiver/ArmSimulator)
+![Sim](https://github.com/MrDiver/ArmSimulator/blob/master/Resources/gui/testprog.gif)
 
+### [Opengl Shading Experiments](https://github.com/MrDiver/ShadingExperiments-Raylib)
+![Checker](https://github.com/MrDiver/ShadingExperiments-Raylib/blob/main/example_images/checker.png)
 
+### [Rocket League Bot](https://github.com/MrDiver/DarkBunny/tree/master/src/main/java/DarkBunny)
+![image](https://user-images.githubusercontent.com/17803932/148728824-f4e2996c-31a8-41e2-b575-815af2433816.png)
 <!--
 **MrDiver/MrDiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
