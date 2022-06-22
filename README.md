@@ -2,8 +2,6 @@
 
 If you found your way to this place then you must be a lost soul. You now have the chance to turn back before you get lost in code straight from hell.
 
-
-
 **🚨 Disclaimer 🚨 Any code found on this account is in no way associated with [Accso](https://accso.de/). All rights on the Logo are reserved for Accso.**
 |Currently working for [Accso](https://accso.de/) | Me Myself And [Manim](https://docs.manim.community) (MMM) |
 |-|-|
