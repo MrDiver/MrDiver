@@ -9,7 +9,6 @@ If you found your way to this place then you must be a lost soul. You now have t
 |![](https://raw.githubusercontent.com/MrDiver/github-stats/master/generated/overview.svg#gh-dark-mode-only)|![](https://raw.githubusercontent.com/MrDiver/github-stats/master/generated/languages.svg#gh-dark-mode-only)|
 
 
-
 ### 🌹 Current Language Favorites
 - Haskell 🔥
 - Rust 🌝
