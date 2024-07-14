@@ -7,13 +7,12 @@ If you found your way to this place then you must be a lost soul. You now have t
 
 ### 🌹 Current Language Favorites
 - Haskell 🔥
-- Rust 🌝
+- Go
 - C++
 
 ### Languages for the Future 🧑‍🚀
 - APL
 - R
-- Go
 
 ### Favorite Hardware Forever
 - ESP8266 🥳 ESP32 🍫
