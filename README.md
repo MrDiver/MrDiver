@@ -2,8 +2,7 @@
 
 If you found your way to this place then you must be a lost soul. You now have the chance to turn back before you get lost in code straight from hell.
 
-|<img width=400 src="https://user-images.githubusercontent.com/17803932/172148869-297febd3-10ae-4199-abcb-9f95af7289f8.gif">|![](https://raw.githubusercontent.com/MrDiver/github-stats/master/generated/overview.svg#gh-dark-mode-only)|![](https://raw.githubusercontent.com/MrDiver/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-|-|-|-|
+<img width=400 src="https://user-images.githubusercontent.com/17803932/172148869-297febd3-10ae-4199-abcb-9f95af7289f8.gif">
 
 ### 🌹 Current Language Favorites
 - Haskell 🔥
